@@ -14,7 +14,7 @@ This project is a Web3 and SaaS application designed to facilitate secure and tr
 - **Backend**: Node.js, Express
 - **Blockchain**: Solana, Web3.js, Solidity
 - **Storage**: AWS S3
-- **Database**: MongoDB or PostgreSQL
+- **Database**:PostgreSQL
 - **Authentication**: JWT
 - **DevOps**: AWS EC2, CDN for data distribution
 
@@ -22,7 +22,7 @@ This project is a Web3 and SaaS application designed to facilitate secure and tr
 
 ### Prerequisites
 - Node.js and npm
-- MongoDB or PostgreSQL database
+- PostgreSQL database
 - AWS Account for S3 and EC2 setup
 - Solana CLI for blockchain interactions
 
